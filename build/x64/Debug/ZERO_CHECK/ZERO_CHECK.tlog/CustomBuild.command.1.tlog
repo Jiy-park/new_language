@@ -1,0 +1,10 @@
+^C:\USERS\USER\NEW_LANGUAGE\BUILD\CMAKEFILES\68E0FB4494848DE979DA3D35F2224C58\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/user/new_language -BC:/Users/user/new_language/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/new_language/build/new_language.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
