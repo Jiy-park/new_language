@@ -305,7 +305,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\user\new_language\main.cpp" />
+    <ClCompile Include="C:\Users\user\new_language\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\user\new_language\build\ZERO_CHECK.vcxproj">

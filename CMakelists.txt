@@ -4,4 +4,4 @@ set(project_name new_language)
 set(cmake_cxx_standard 17)
 
 project(${project_name})
-add_executable(${project_name} main.cpp)
+add_executable(${project_name} src/main.cpp)
