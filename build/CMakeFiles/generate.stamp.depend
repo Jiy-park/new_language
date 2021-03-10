@@ -1,9 +1,12 @@
 # CMake generation dependency list for this directory.
 C:/Users/user/new_language/CMakeLists.txt
+C:/Users/user/new_language/Dependency.cmake
 C:/Users/user/new_language/build/CMakeFiles/3.20.0-rc2/CMakeCCompiler.cmake
 C:/Users/user/new_language/build/CMakeFiles/3.20.0-rc2/CMakeCXXCompiler.cmake
 C:/Users/user/new_language/build/CMakeFiles/3.20.0-rc2/CMakeRCCompiler.cmake
 C:/Users/user/new_language/build/CMakeFiles/3.20.0-rc2/CMakeSystem.cmake
+C:/Users/user/new_language/build/dep_glfw-prefix/tmp/dep_glfw-mkdirs.cmake
+C:/Users/user/new_language/build/dep_spdlog-prefix/tmp/dep_spdlog-mkdirs.cmake
 D:/CMake/share/cmake-3.20/Modules/CMakeCInformation.cmake
 D:/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
 D:/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
@@ -16,6 +19,14 @@ D:/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
 D:/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
 D:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
 D:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/share/cmake-3.20/Modules/ExternalProject.cmake
+D:/CMake/share/cmake-3.20/Modules/ExternalProject/RepositoryInfo.txt.in
+D:/CMake/share/cmake-3.20/Modules/ExternalProject/cfgcmd.txt.in
+D:/CMake/share/cmake-3.20/Modules/ExternalProject/gitclone.cmake.in
+D:/CMake/share/cmake-3.20/Modules/ExternalProject/mkdirs.cmake.in
+D:/CMake/share/cmake-3.20/Modules/FindGit.cmake
+D:/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+D:/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
 D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
 D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
 D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
