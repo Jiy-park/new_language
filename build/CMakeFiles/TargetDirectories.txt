@@ -1,5 +1,0 @@
-C:/Users/user/new_language/build/CMakeFiles/new_language.dir
-C:/Users/user/new_language/build/CMakeFiles/dep_spdlog.dir
-C:/Users/user/new_language/build/CMakeFiles/dep_glfw.dir
-C:/Users/user/new_language/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/user/new_language/build/CMakeFiles/ZERO_CHECK.dir
